@@ -55,15 +55,24 @@ Training Loop: Stratified across graph samples with per-node label loss
 
 📈 Visual Results
 🔹Classification Report
+
+
 ![image (12)](https://github.com/user-attachments/assets/882ee0f1-4b2a-4bfa-8ae8-5a7f6c17549f)
 
+
 🔹 Confusion Matrix
+
+
 ![WhatsApp Image 2025-06-27 at 5 59 02 PM](https://github.com/user-attachments/assets/b273dbdf-f51f-411f-8d42-35f80dac502a)
 
 🔹 ROC Curve (Macro AUC)
+
+
 ![download (2)](https://github.com/user-attachments/assets/24443ebd-e9b4-4917-aa47-d61bd8c976c6)
 
 🔹 t-SNE Embedding of Node Features
+
+
 ![download (1)](https://github.com/user-attachments/assets/76af555c-e37a-4c2e-afc1-d9d0be4d1739)
 
 
